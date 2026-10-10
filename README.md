@@ -1,6 +1,8 @@
 > [!IMPORTANT]
 > 本リポジトリは、他のプロダクトや会社の「TechGrow」とは一切無関係です。     
 
+<img width="937" height="907" alt="image" src="https://github.com/user-attachments/assets/851c0144-174e-47d1-90c5-0d8d155d4a2f" />
+
 
 # jphacks2026-learning-day
 　jphacks2026-learning-dayで構想したプロダクト「TechGrow」のUIです。
