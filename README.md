@@ -1,10 +1,10 @@
 > [!IMPORTANT]
 > 本リポジトリは、他のプロダクトや会社の「TechGrow」とは一切無関係です。     
 
-<img width="937" height="907" alt="image" src="https://github.com/user-attachments/assets/851c0144-174e-47d1-90c5-0d8d155d4a2f" />
+<img width="934" height="907" alt="image" src="https://github.com/user-attachments/assets/a4b2d9c9-3b6d-4a93-8202-4ba0093b0e98" />
 
 
-# jphacks2026-learning-day
+# TechGrow - jphacks2026-learning-day
 　jphacks2026-learning-dayで構想したプロダクト「TechGrow」のUIです。
 
 　プログラミング学習に取り組んでいる学生をターゲットに、GitHubの活動履歴や学習記録をAIが分析し、技術力がどれくらい成長したのか把握するサービスです。
